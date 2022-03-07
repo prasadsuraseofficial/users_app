@@ -1,0 +1,18 @@
+.nav-item {
+    padding: 0.5rem;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    padding: 0.5rem;
+} 
+
+a:hover {
+    text-decoration: none;
+} 
+
+.active {
+    color: darkblue;
+    background-color: aquamarine !important;
+}
