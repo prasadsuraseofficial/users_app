@@ -11,6 +11,7 @@ function App() {
     <div className="container">
       <BrowserRouter>
 
+        {/* common navbar */}
         <Navbar />
 
         <Routes>
